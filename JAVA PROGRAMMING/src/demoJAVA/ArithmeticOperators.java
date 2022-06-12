@@ -12,8 +12,8 @@ public class ArithmeticOperators {
 		
 		// program example
 		//initializing
-		int a = 25;
-		int b = 40;
+		float a = 25;
+		float b = 40;
 		
 		//Output statement
 		
