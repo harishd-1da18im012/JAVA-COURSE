@@ -1,6 +1,6 @@
 package demoJAVA;
 
-public class AssignmentOperators {
+public class AssignmnetOperator {
 
 	public static void main(String[] args) {
 		// Assignment operators
