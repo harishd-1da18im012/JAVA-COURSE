@@ -10,7 +10,7 @@ public class AssignmentOperators {
 		 System.out.println("a=a*(n+1):"+(a *= n+1));
 		 System.out.println("a=a/(n+1):"+(a /= n+1));
 		 System.out.println("a=a%b:"+(a %= b));
-		 
+		 System.out.println("assignement operators");
 
 	}
 
