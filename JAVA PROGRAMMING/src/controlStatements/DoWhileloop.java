@@ -9,6 +9,6 @@ public class DoWhileloop {
 	    i++;    
 	    }while(i<=20);
 				}
-		// TODO Auto-generated method stub
+		
 
 	}
