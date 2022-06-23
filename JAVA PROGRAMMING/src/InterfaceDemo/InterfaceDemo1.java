@@ -8,8 +8,8 @@ interface i2{
 ;
 }
 class Impclass implements i1,i2{
-	int p = 10;
-	int q = 20;
+	int p = 11;
+	int q = 21;
 	@Override
 	public void set(int x, int y) {
 		this.p=x;
